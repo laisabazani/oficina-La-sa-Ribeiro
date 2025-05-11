@@ -1,5 +1,9 @@
 class Calculadora {
-  //Seu código aqui
+  soma(a,b){
+    return a + b
+  }
 } 
 
 module.exports = Calculadora
+
+
